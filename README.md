@@ -118,8 +118,7 @@ Year, Revenue, COGS, Operating_Expenses, Net_Income, Assets, Liabilities, Equity
 
 ## 👤 About
 
-**Author:** Mor Wagan
-**Education:** MA Economics | Accounting background
+**Author:** Muhammad Baqar Wagan
 **Focus:** Financial analysis, economic research, and data-driven reporting targeting finance roles in KSA — including Big Four consulting, Islamic Development Bank, and Vision 2030-aligned institutions.
 
 This project demonstrates applied skills in Python financial modelling, interactive dashboard development, automated report generation, and analytical communication — the core skills demanded in financial analysis roles across the Saudi market.
